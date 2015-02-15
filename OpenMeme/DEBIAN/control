@@ -1,0 +1,10 @@
+Package: com.flyingstarstorm.openmeme
+Name: OpenMeme
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Joke tweak that plays a sound when you open an app
+Maintainer: Squirrels McGee
+Author: Squirrels McGee
+Section: Tweaks
+Version: 1.0
+Installed-Size: 16
